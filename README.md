@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nat Gómez</h1>
 <h3 align="center">A web developer from Colombia</h3>
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://developer.natgomez.com](https://developer.natgomez.com)
 
