@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nat Gómez</h1>
 <h3 align="center">A web developer from Colombia</h3>
 
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **Creative app**
 
-- 👨‍💻 All of my projects are available at [https://developer.natgomez.com](https://developer.natgomez.com)
+- 🌱 I’m currently learning **Database and system design**
 
-- ⚡ Fun fact **I love fiction storytelling**
+- 👨‍💻 All of my projects are available at [https://natgomez.com](https://natgomez.com)
+
+- ⚡ Fun fact **I love fiction storytelling and martial arts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
