@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">A full stack developer from Colombia</h3>
 
-- 🔭 I’m currently working on **a web app for fiction storytellers**
+- 🔭 I’m currently working on **Writer's Den (a web app for fiction storytellers)**
 
-- 🌱 I’m currently learning **system architecture, databases, and React**
+- 🌱 I’m currently learning **Python, DSA, React**
 
 - 👯 I’m looking to collaborate on **video games or storytelling/creativity related projects**
 
