@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Writer's Den (a web app for fiction storytellers)**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently reading **The Origin of Wealth by Eric Beinhocker & Read Write Own by Chris Dixon**
 
-- 👯 I’m looking to collaborate on **video games or storytelling/creativity related projects**
+- 👯 I’m looking to collaborate on **collaborative storytelling, community building, or hacking growth related projects**
 
 - ⚡ Fun fact **I love storytelling, martial arts, and tea**
 
