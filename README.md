@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">A full stack developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Writer's Den (a web app for fiction storytellers)**
+- 🔭 I’m currently working on **Learning foundry fundamentals**
 
-- 🌱 I’m currently reading **The Origin of Wealth by Eric Beinhocker & Read Write Own by Chris Dixon**
+- 🌱 I’m currently reading **AI 2041 by Chen Qiufan and Kai-Fu Lee**
 
-- 👯 I’m looking to collaborate on **collaborative storytelling, community building, or hacking growth related projects**
+- 👯 I’m looking to collaborate on **storytelling, creativity, or blockchain related projects**
 
 - 👨‍💻 All of my projects are available at [https://natgomez.com](https://natgomez.com)
 
