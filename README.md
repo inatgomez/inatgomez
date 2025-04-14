@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">A full stack developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Learning foundry fundamentals**
+- 🔭 I’m currently working on **AI Story Companion**
 
-- 🌱 I’m currently reading **AI 2041 by Chen Qiufan and Kai-Fu Lee**
+- 🌱 I’m currently reading **Never split the difference by Chris Voss**
 
 - 👯 I’m looking to collaborate on **storytelling, creativity, or blockchain related projects**
 
