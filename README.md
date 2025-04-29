@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://natgomez.com/blog](https://natgomez.com/blog)
 
-- 📄 Know about my experiences [www.linkedin.com/in/nat-gomez-162144331](www.linkedin.com/in/nat-gomez-162144331)
+- 📄 Know about my experiences [www.x.com/inatgomez](www.x.com/inatgomez)
 
 - ⚡ Fun fact **I love storytelling, martial arts, football, and tea**
 
