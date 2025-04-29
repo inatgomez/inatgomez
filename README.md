@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on **AI Story Companion**
 
-- 🌱 I’m currently reading **Never split the difference by Chris Voss and Token Economy by Shermin Voshmgir
-**
+- 🌱 I’m currently reading **Never split the difference by Chris Voss and Token Economy by Shermin Voshmgir**
 
 - 👯 I’m looking to collaborate on **storytelling, creativity, or blockchain related projects**
 
