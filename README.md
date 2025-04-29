@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **storytelling, creativity, or blockchain related projects**
 
-- 👨‍💻 All of my projects are available at [https://natgomez.com](https://natgomez.com)
+- 👨‍💻 All of my projects are available at [my website](https://natgomez.com)
 
-- 📝 I write articles on [https://natgomez.com/blog](https://natgomez.com/blog)
+- 📝 I write articles on [my blog](https://natgomez.com/blog)
 
-- 📄 Know about my experiences [www.x.com/inatgomez](www.x.com/inatgomez)
+- 📄 Read my insights on creativity and the future of creation [on X](https://www.x.com/inatgomez)
 
 - ⚡ Fun fact **I love storytelling, martial arts, football, and tea**
 
