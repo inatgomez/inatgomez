@@ -3,13 +3,14 @@
 
 - 🔭 I’m currently working on **AI Story Companion**
 
-- 🌱 I’m currently reading **Never split the difference by Chris Voss**
+- 🌱 I’m currently reading **Never split the difference by Chris Voss and Token Economy by Shermin Voshmgir
+**
 
 - 👯 I’m looking to collaborate on **storytelling, creativity, or blockchain related projects**
 
-- 👨‍💻 All of my projects are available at [my website](https://natgomez.com)
+- 👨‍💻 All of my projects are available [here](https://natgomez.com/projects)
 
-- 📝 I write articles on [my blog](https://natgomez.com/blog)
+- 📝 Read my short notes from a curious creator on [my blog](https://natgomez.com/blog)
 
 - 📄 Read my insights on creativity and the future of creation [on X](https://www.x.com/inatgomez)
 
