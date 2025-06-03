@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">A full stack developer from Colombia</h3>
 
-- 🔭 I’m currently working on **AI Story Companion**
+- 🔭 I’m currently working on **Story Buildathon Project**
 
-- 🌱 I’m currently reading **Never split the difference by Chris Voss and Token Economy by Shermin Voshmgir**
+- 🌱 I’m currently reading **One Up by Joost van Dreunen**
 
-- 👯 I’m looking to collaborate on **storytelling, creativity, or blockchain related projects**
+- 👯 I’m looking to collaborate on **storytelling, creativity, or intellectual property+blockchain related projects**
 
 - 👨‍💻 All of my projects are available [here](https://natgomez.com/projects)
 
-- 📝 Read my short notes from a curious creator on [my blog](https://natgomez.com/blog)
+- 📝 Read my short notes from a curious creator on [my blog](https://natgomez.substack.com)
 
 - 📄 Read my insights on creativity and the future of creation [on X](https://www.x.com/inatgomez)
 
