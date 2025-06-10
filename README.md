@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://natgomez.com/projects)
 
-- 📝 Read my short notes from a curious creator on [my blog](https://natgomez.substack.com)
+- 📝 Read my newsletter on technology and creativity [here](https://natgomez.substack.com)
 
 - 📄 Read my insights on creativity and the future of creation [on X](https://www.x.com/inatgomez)
 
