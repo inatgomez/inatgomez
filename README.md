@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">A full stack developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Story Buildathon Project**
+- 🔭 I’m currently working on **Athena MVP**
 
-- 🌱 I’m currently reading **One Up by Joost van Dreunen**
+- 🌱 I’m currently reading **The Scent of Time by Byung-Chul Han**
 
 - 👯 I’m looking to collaborate on **storytelling, creativity, or intellectual property+blockchain related projects**
 
