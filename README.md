@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **storytelling, creativity, or intellectual property+blockchain related projects**
 
-- 👨‍💻 All of my projects are available [here](https://natgomez.com/projects)
+- 👨‍💻 All of my projects are available [here](https://natgomez.com/case-studies)
 
 - 📝 Read my newsletter on technology and creativity [here](https://natgomez.substack.com)
 
