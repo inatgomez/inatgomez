@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">A full stack developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Athena MVP**
+- 🔭 I’m currently working on **Athena**
 
-- 🌱 I’m currently reading **The Scent of Time by Byung-Chul Han**
+- 🌱 I’m currently reading **The Crux by Richard Rumelt**
 
-- 👯 I’m looking to collaborate on **storytelling, creativity, or intellectual property+blockchain related projects**
+- 👯 I’m looking to collaborate on **entertainment, creativity, or intellectual property+blockchain related projects**
 
 - 👨‍💻 All of my projects are available [here](https://natgomez.com/case-studies)
 
