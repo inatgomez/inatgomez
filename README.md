@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Athena**
 
-- 🌱 I’m currently reading **The Crux by Richard Rumelt**
+- 🌱 I’m currently reading **The Blockchain and the New Architecture of Trust by Kevin Werbach**
 
 - 👯 I’m looking to collaborate on **entertainment, creativity, or intellectual property+blockchain related projects**
 
