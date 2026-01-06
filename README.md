@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
-<h3 align="center">A full stack developer from Colombia</h3>
+<h3 align="center">A product builder from Colombia</h3>
 
-- 🔭 I’m currently working on **Kinich Sports Performance**
+- What's a product builder? The name I got from Claude as a description to the career I'd like to develop – a career where I get to work on product and business strategy, as well as software design and development.
 
-- 👯 I’m looking to collaborate on **entertainment,sports, human performance, intellectual property, blockchain related projects**
+- I’m currently working on **Kinich Sports Performance** An app of athlete owned IP with the goal to collect performance data sets and insights for all kinds of athletes and sports.
 
-- 📝 Read my newsletter on technology and creativity [here](https://natgomez.substack.com)
+- I’m looking to collaborate on **sports, human performance, and intellectual property related projects**
 
-- 📄 Read my building in public journey [on X](https://www.x.com/thenatgomez)
+- Read my newsletter on sports, technology, and business [here](https://natgomez.substack.com)
 
-- ⚡ Fun fact **I love storytelling, martial arts, football, and tea**
+- Read my building in public journey [on X](https://www.x.com/thenatgomez)
+
+- Fun fact **I love storytelling, martial arts, football, and tea**
