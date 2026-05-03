@@ -29,7 +29,6 @@ Building football analytics fluency from the model up — working through a stru
 | **Strategy & systems** | Product strategy, user research, business models |
 | **Design & research** | UX, product design, cross-domain research synthesis |
 | **Building to validate** | TypeScript / React / Python |
-| **Writing & storytelling** | Documenting my journey |
 
 ---
 
