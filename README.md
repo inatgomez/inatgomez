@@ -1,4 +1,4 @@
-# Product builder at the edge of sports, performance, and tech.
+# Product builder at the intersection of sports performance, business, and tech.
 
 `sports tech` · `human performance` · `product strategy` · `systems thinking` · `early-stage`
 
