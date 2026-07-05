@@ -4,7 +4,7 @@
 
 ---
 
-I connect dots between sports, human performance, technology, and business — then build products to test whether those connections solve real problems.
+I connect the dots between sports, human performance, technology, and business — then build products to test whether those connections solve real problems.
 
 International business degree. Self-taught in TypeScript, React, Python, and blockchain infrastructure. I think in systems, follow my curiosity, and build enough to know if something works. I'm product-first — technology is only the tool.
 
@@ -12,7 +12,7 @@ International business degree. Self-taught in TypeScript, React, Python, and blo
 
 ### Currently
 
-Building football analytics fluency from the model up — working through a structured project series: xG modeling and shot quality analysis → player recruitment pipelines → tactical report generation → a deployed React + FastAPI platform integrating all of it. Ending with an MMA performance analyzer to test whether the same pipeline transfers across sports.
+Building football analytics fluency from the model up — working through a structured project series: xG modeling and shot quality analysis → player recruitment pipelines → tactical report generation → a deployed React + FastAPI platform integrating all of it.
 
 ---
 
@@ -40,7 +40,7 @@ Building football analytics fluency from the model up — working through a stru
 
 ### Open to
 
-Early-stage sports tech and human performance teams where curiosity and cross-disciplinary thinking matter. Founding roles, consulting, product strategy, or hybrid positions where I can learn and build.
+Consulting roles with early-stage teams in the sports industry, working in product development and business strategy where curiosity and cross-disciplinary thinking matter.
 
 _Remote only_
 
