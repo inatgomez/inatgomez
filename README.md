@@ -12,7 +12,7 @@ International business degree. Self-taught in TypeScript, React, Python, and blo
 
 ### Currently
 
-Building football analytics fluency from the model up — working through a structured project series: xG modeling and shot quality analysis → player recruitment pipelines → tactical report generation → a deployed React + FastAPI platform integrating all of it.
+Building football analytics fluency from the model up — working through a structured project series: xG modeling and shot quality analysis → player recruitment pipelines → tactical analysis report generation. You can check the repositories for the [xG model](https://github.com/inatgomez/xg-model) and [player recruitment pipeline](https://github.com/inatgomez/player-filter).
 
 ---
 
